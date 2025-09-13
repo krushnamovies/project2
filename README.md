@@ -1,3 +1,3 @@
 # New Project
-Created by Shradha Khapra
-Madem
+Created by Shradha Khapra.
+Madem.
